@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// WAP to print the name
 
 public class Methods3 {
 // print name using method

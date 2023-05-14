@@ -1,5 +1,5 @@
 public class Methods2 {
-    // find the odd numbers between two integers
+// find the odd numbers between two integers
     static boolean checkEven(int n){
         
         if(n%2 == 0){

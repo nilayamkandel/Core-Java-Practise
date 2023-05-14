@@ -25,33 +25,26 @@ public class ConditionalTest {
 // PROBLEM 2
 // Java Program to Check Whether a Number is Positive or Negative
 
-int n1 = 0;     
-Scanner sc = new Scanner(System.in);
-System.out.println("Enter one number");
-n1 = sc.nextInt();
+// int n1 = 0;     
+// Scanner sc = new Scanner(System.in);
+// System.out.println("Enter one number");
+// n1 = sc.nextInt();
 
-if(n1 >= 0){
-    System.out.println("the number is positive");
-}else{
-    System.out.println("the number is negative");
+// if(n1 >= 0){
+//     System.out.println("the number is positive");
+// }else{
+//     System.out.println("the number is negative");
+// }
+
+
+
+// PROBLEM 3
+// Java Program to Check Whether a Character is Alphabet or Not..............YET TO SOLVE
+
+String c = " ";
+Scanner sc = new Scanner (System.in);
+System.out.println("Enter some value ");
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
-
 
 }

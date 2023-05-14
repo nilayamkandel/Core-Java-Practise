@@ -4,7 +4,7 @@ public class Methods4 {
 
     static int addTwoNum(int n1, int n2){
         int sum = n1 + n2;
-        System.out.println(sum);
+        
         return sum;
         
 
@@ -19,7 +19,7 @@ public static void main(String[] args) {
     int n2 = sc.nextInt();
 
     int sum = addTwoNum(n1, n2);
-   
+    System.out.println(sum);
     
 }
 }

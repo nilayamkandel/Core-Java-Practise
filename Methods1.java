@@ -1,6 +1,6 @@
 
 public class Methods1 {
-// find the even numbers between two given number
+// find the prime numbers between two given number
     static boolean checkPrime(int n){
         if(n <2){
            System.out.println("not prime");

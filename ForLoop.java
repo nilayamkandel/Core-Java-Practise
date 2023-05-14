@@ -4,7 +4,7 @@ public class ForLoop {
     public static void main(String[] args) {
 
         
-// -------------------------------------------PROBLEM 1--------------------------------------------------------------------------------------
+// ==================================================PROBLEM 1==================================================================================
 // Find the  prime number
 
 // int num;
@@ -21,7 +21,7 @@ public class ForLoop {
 // 	    	    if (num % i == 0) {
 // 	    		System.out.println(num + " is not a prime number.");
 // 	    		prime= false; 		 
-// 	    		break;
+// 	    		break; 
 // 	    		}
 // 	    	}
 // 		   if(prime == true){
@@ -32,7 +32,7 @@ public class ForLoop {
 
 
 
-// ==========================================   PROBLEM 2============================================================================
+// ==============================================PROBLEM 2============================================================================
 // Take input from user and add only even number 
 
 //      int n1, n2, sumOfEven = 0;
@@ -50,23 +50,30 @@ public class ForLoop {
 // 		}System.out.println("the sum of even numbers are : " + sumOfEven);
 
 
+
+
 // ============================================PROBLEM 3==============================================================================
 // calculate the odd and even number
 
-     int even = 0;
-		int odd = 0;
-		for(int i = 1; i<=20; i++) {
-			if(i%2==0) {
-				even = even + i;
-			}else {
-				odd = odd + i;
-			}
-		}
-		System.out.println("sum of even number = " + even);
-		System.out.println("sum of odd number = " + odd);
-		System.out.println("sum of total number = " + (even+odd));
+// int even = 0;
+// 		int odd = 0;
+// 		for(int i = 1; i<=20; i++) {
+// 			if(i%2==0) {
+// 				even = even + i;
+// 			}else {
+// 				odd = odd + i;
+// 			}
+// 		}
+// 		System.out.println("sum of even number = " + even);
+// 		System.out.println("sum of odd number = " + odd);
+// 		System.out.println("sum of total number = " + (even+odd));
 		
     
+
+
+
+// ===============================================PROBLEM 4==================================================================================
+
 
 
 
