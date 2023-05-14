@@ -104,17 +104,64 @@ public class arrayProblems {
 // ============================================PROBLEM 6====================================================
 //  Write a Java program to find the maximum element in an array.
 
-                    int maxNum[] = {10,21,3,14,5};
-                    int max;
-                    for(int i = 0; i < maxNum.length; i++){
-                    }
-                    max = maxNum[0];
-                    for(int i = 1;i<maxNum.length; i++){
-                        if(maxNum[i] > max){
-                            max = maxNum[i];
-                        }
-                    }
-                    System.out.println("the maximum number is : " + max);
+                    // int maxNum[] = {10,21,3,14,5};
+                    // int max;
+                    // for(int i = 0; i < maxNum.length; i++){
+                    // }
+                    // max = maxNum[0];
+                    // for(int i = 1;i<maxNum.length; i++){
+                    //     if(maxNum[i] > max){
+                    //         max = maxNum[i];
+                    //     }
+                    // }
+                    // System.out.println("the maximum number is : " + max);
+
+
+
+// ======================================PROBLEM 7============================================================
+// Write a Java program to find whether an array is sorted or not
+// yet to solve
+
+// =====================================PROBLEM 8===============================================================
+// Take array as an input and search for given number x and print index where it occurs.
+
+                    // int size;
+
+                    // Scanner sc = new Scanner(System.in);
+                    // System.out.println("Enter the size of number");
+                    // size = sc.nextInt(); int searchNum;
+                    // boolean found = true;
+
+                    // int findNum[]= new int[size];
+                    
+                    // System.out.println("Enter the number");
+                    // for(int i=0; i<findNum.length; i++){
+                    //     findNum[i] = sc.nextInt();
+                    // }
+
+                    // System.out.println("enter the number you want to search");
+                    // searchNum = sc.nextInt();
+                    
+                    // for(int i = 0; i<findNum.length; i++){
+                    //     if(searchNum == findNum[i]){
+                    //         System.out.println("the number is found");
+                    //         found = true;
+                    //         return;
+                    //     }
+                    //     found = false;
+                        
+                    // }
+                    // if(found == false){
+                    //     System.out.println("not found");
+                    // }
+
+
+
+
+
+
+
+
                     
 
                     
