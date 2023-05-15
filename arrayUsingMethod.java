@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class arrayUsingMethod {
 // Print the number 1-9
 // ============================================PROBLEM 1======================================================================
@@ -50,7 +52,25 @@ public class arrayUsingMethod {
 
 
 // ========================================================PROBLEM 4======================================================
-// 
+// find the size of odd number.
+
+        static int[] getOddNumsFrom1to100(){
+            int oddnum[] = new int[50];
+            int j = 0;
+            for(int i = 1; i<=100; i++){
+                if(i%2 != 0){
+                    oddnum[j] = i;
+                    j++;
+                }
+            }    
+            return oddnum; 
+        }
+        public static void main(String[] args) {
+            int[] oddnum = getOddNumsFrom1to100();
+            System.out.println(Arrays.toString(oddnum));
+        }
+
+
 
 
 
