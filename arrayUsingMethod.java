@@ -54,21 +54,51 @@ public class arrayUsingMethod {
 // ========================================================PROBLEM 4======================================================
 // find the size of odd number.
 
-        static int[] getOddNumsFrom1to100(){
-            int oddnum[] = new int[50];
-            int j = 0;
-            for(int i = 1; i<=100; i++){
-                if(i%2 != 0){
-                    oddnum[j] = i;
-                    j++;
-                }
-            }    
-            return oddnum; 
-        }
-        public static void main(String[] args) {
-            int[] oddnum = getOddNumsFrom1to100();
-            System.out.println(Arrays.toString(oddnum));
-        }
+        // static int[] getOddNumsFrom1to100(){
+        //     int oddnum[] = new int[50];
+        //     int j = 0;
+        //     for(int i = 1; i<=100; i++){
+        //         if(i%2 != 0){
+        //             oddnum[j] = i;
+        //             j++;
+        //         }
+        //     }    
+        //     return oddnum; 
+        // }
+        // public static void main(String[] args) {
+        //     int[] oddnum = getOddNumsFrom1to100();
+        //     System.out.println(Arrays.toString(oddnum));
+        // }
+
+
+// ===============================================PROBLEM 5=========================================================
+// find the even number by passing array and returning array
+
+//             static int[] getSubArrayOfEvenNums(int values[]){
+// // this step is done to calculate the size of even numbers in given number.
+//                 int size = 0;
+//                 for(int x: values){
+//                     if(x%2 == 0){
+//                         size++;
+//                     }
+//                 }
+//                 System.out.println("the size of even number is : " + size);
+
+// // now create array for even number
+//                 int even[] = new int[size];
+//                 int i = 0;
+//                 for(int x:values){
+//                     if(x%2 == 0){
+//                         even[i] = x;
+//                         i++;
+//                     }
+//                 }
+//                 return even;
+//             }
+//             public static void main(String[] args) {
+//                 int data[] = {1,2,3,4,5,67,8,9,8,6,4,9,76,34,56,23};
+//                  System.out.println(Arrays.toString(getSubArrayOfEvenNums(data)));
+//             }
 
 
 
