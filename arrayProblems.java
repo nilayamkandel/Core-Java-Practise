@@ -1,4 +1,6 @@
 import java.util.Scanner;
+import java.util.Arrays;
+
 
 public class arrayProblems {
 
@@ -120,7 +122,10 @@ public class arrayProblems {
 
 // ======================================PROBLEM 7============================================================
 // Write a Java program to find whether an array is sorted or not
-// yet to solve
+                    // int data[] = {3,4,5,74,27,69,83,47,92,85,9};
+                    // Arrays.sort(data);
+                    // System.out.println(Arrays.toString(data));
+
 
 
 
