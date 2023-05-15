@@ -122,6 +122,9 @@ public class arrayProblems {
 // Write a Java program to find whether an array is sorted or not
 // yet to solve
 
+
+
+
 // =====================================PROBLEM 8===============================================================
 // Take array as an input and search for given number x and print index where it occurs.
 
