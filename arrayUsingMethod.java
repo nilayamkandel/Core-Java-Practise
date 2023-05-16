@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class arrayUsingMethod {
 // Print the number 1-9
@@ -99,6 +100,21 @@ public class arrayUsingMethod {
 //                 int data[] = {1,2,3,4,5,67,8,9,8,6,4,9,76,34,56,23};
 //                  System.out.println(Arrays.toString(getSubArrayOfEvenNums(data)));
 //             }
+
+
+
+
+// ================================================PROBLEM 6===================================================
+    
+       
+
+    
+}
+
+
+
+
+
 
 
 
