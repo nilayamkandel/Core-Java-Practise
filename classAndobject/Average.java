@@ -1,5 +1,8 @@
 package classAndobject;
 
+// Print the average of three numbers entered by user by creating a class named 'Average' having a method 
+// to calculate and print the average.
+
 import java.util.Scanner;
 
 public class Average {
