@@ -1,8 +1,8 @@
 import java.util.Scanner;
-// WAP to print the name
+// WAP to print the name using method
 
 public class Methods3 {
-// print name using method
+
     static void writeName(String name){
         System.out.println(name);
        

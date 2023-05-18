@@ -105,9 +105,20 @@ public class arrayUsingMethod {
 
 
 // ================================================PROBLEM 6===================================================
-    
-       
+                public static void main(String[] args) {
+                        Scanner sc = new Scanner(System.in);
+                        System.out.println("Enter the numbers"); 
+                        int numb[] = new int[8];
+                        number();
+                }
+                static void number(){
+                        for(int i = 0; i<8; i++){
+                                numb[i] = sc.nextInt();
 
+                        }   
+}
+       
+                
     
 }
 

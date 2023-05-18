@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class studentResultUsingArray {
+// Print marksheet
     
     public static void main(String[] args) {
 
@@ -15,6 +16,7 @@ public class studentResultUsingArray {
        int science[] = new int[size];
        int roll[] = new int[size];
        double percentage;
+       String remarks;
 
        for(int i = 0; i<size; i++){
             
@@ -32,7 +34,6 @@ public class studentResultUsingArray {
             System.out.println("Marks in social : ");
             social[i] = sc.nextInt();
 
-
             System.out.println(" ");
        }
             
@@ -41,25 +42,24 @@ public class studentResultUsingArray {
 
             for(int i=0; i<size; i++){
             percentage = (science[i] + social[i])/2.0;
-            String remarks;
-            System.out.println("    " + roll[i] + "       |    " + studentName[i]+ "       |  " +  percentage + "%" + "   |  " + " Remarks");
-            
-            // if(percentage >= 80){
-            //     System.out.println("Distinction");
+              
+            if(percentage >= 80){
+                remarks = "Distinction";
                 
-            // }
-            // else if(percentage >= 60 ){
-            //     System.out.println("first divison");
+            }
+            else if(percentage >= 60 ){
+                remarks = "first divison";
                
-            //     }
-            // else if(percentage >= 40){
-            //     System.out.println("second division");  
+                }
+            else if(percentage >= 40){  
+                remarks =  "second divison";
                 
-            // }
-            // else{
-            //     System.out.println("work hard");
+            }
+            else{
+                remarks = "work hard";
                 
-            // }
+            }
+            System.out.println("    " + roll[i] + "       |    " + studentName[i]+ "       |  " +  percentage + "%" + "   |  " +  remarks);
 
             System.out.println(" ");
         

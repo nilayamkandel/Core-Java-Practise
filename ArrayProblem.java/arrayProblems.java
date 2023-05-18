@@ -166,9 +166,14 @@ public class arrayProblems {
 
 
 // ============================================PROBLEM 9=========================================================
+// take input from user and sort the element and find the maximum and minimum
+
                     
-String studentName[] = {"sita","gita"};
-System.out.println(studentName[1]);
+                   
+
+                   
+
+                    
 
 
 

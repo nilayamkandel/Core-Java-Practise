@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 public class ConditionalTest {
     public static void main(String[] args) {
         
