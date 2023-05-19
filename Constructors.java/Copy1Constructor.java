@@ -11,8 +11,8 @@ class Student{
         this.name = s2.name;
         this.age  = s2.age;
     }
-    Student(){
-    }
+    
+    Student(){}
 }
 
 public class Copy1Constructor {
