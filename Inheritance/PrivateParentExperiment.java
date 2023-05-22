@@ -11,5 +11,10 @@ operations (You will get error in the third)
  */
 
 public class PrivateParentExperiment {
-    
+
+    private void print(){
+        System.out.println("this is parent class");
+    }
+
+   
 }
