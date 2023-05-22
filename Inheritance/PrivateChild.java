@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class PrivateChildExperiment extends PrivateParentExperiment{
+public class PrivateChild extends PrivateParent{
 
     void output(){
 

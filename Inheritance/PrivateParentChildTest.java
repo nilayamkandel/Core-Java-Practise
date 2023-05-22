@@ -4,10 +4,10 @@ public class PrivateParentChildTest {
     
     public static void main(String[] args) {
 
-        PrivateParentExperiment p = new PrivateParentExperiment();
+        PrivateParent p = new PrivateParent();
         p.print();
 
-        PrivateChildExperiment c = new PrivateChildExperiment();
+        PrivateChild c = new PrivateChild();
         c.output();
 
         c.print();

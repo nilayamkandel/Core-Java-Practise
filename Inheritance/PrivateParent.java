@@ -10,7 +10,7 @@ method that prints "This is child class". Now, create an object for each of the 
 operations (You will get error in the third)
  */
 
-public class PrivateParentExperiment {
+public class PrivateParent {
 
     private void print(){
         System.out.println("this is parent class");
