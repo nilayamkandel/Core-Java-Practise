@@ -7,7 +7,7 @@ public class Calculation {
         r.getArea();
         r.getPerimeter();
         System.out.println("");
-        Rectangle square = new Square(10);
+        Square square = new Square(10);
         square.getArea();
         square.getPerimeter();
         
