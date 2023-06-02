@@ -1,5 +1,7 @@
 package Encapsulation;
-
+/*
+ * wap to print the id, name and city using encapsulation and pojo.Hint: (use private data type and use getter setter) 
+ */
 public class Customer {
     private int id;
 	private String name;
