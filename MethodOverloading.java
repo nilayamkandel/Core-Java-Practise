@@ -1,5 +1,5 @@
 public class MethodOverloading {
-    
+// WAP to show method overloading   
     void printSum(int a, int b){
         int  sum = a + b;
         System.out.println("the total sum is : " + sum);
@@ -16,3 +16,4 @@ public class MethodOverloading {
 
     }
 }
+
