@@ -10,7 +10,7 @@ public class WriteTest {
 		file.write("Company = samsung\n");
 		file.write("Quantity = 800\n");
 		
-		file.close();
+		
 		System.out.println("success");
 	}
 }
