@@ -41,9 +41,9 @@ public class Details {
           System.out.println("-------------------------");
           obj.countDupChars("Hello.com");
         
-          System.out.println("\nString: HimanshuPyakurel");
+          System.out.println("\nString: Nilayam  kandel");
           System.out.println("-------------------------");
-          obj.countDupChars("HimanshuPyakurel");
+          obj.countDupChars("nilayam kandel");
        
           System.out.println("\nString: #@$@!#$%!!%@");
           System.out.println("-------------------------");
