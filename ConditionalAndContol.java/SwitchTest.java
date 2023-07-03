@@ -42,6 +42,8 @@ public class SwitchTest {
 
 
 
+
+
 // PROBLEM 2
 /*
 		 * calculate the following post:
@@ -52,6 +54,9 @@ public class SwitchTest {
 		 * MANAGER	18700			17.88%	?
 		 * HELPER	12789			11%		?
 		 */
+
+
+
 // String post = "";
 // double basicSalary, bonus;
 // double totalIncome;
@@ -134,6 +139,41 @@ switch(operator.toLowerCase()){
 }
 
 
+// PROBLEM 3
+// Calculate add/sub/mul/div (+,-,*,/) of two integer value given by user using switch
+
+
+// Scanner sc = new Scanner(System.in);
+// System.out.println("enter one value");
+// int n1 = sc.nextInt();
+
+// System.out.println("enter second value");
+// int n2 = sc.nextInt();
+// System.out.println("enter any of the operation:\n 1) add \n 2) subtract \n 3) multiply \n 4) divide");
+// String operation= sc.next();
+
+
+// switch(operation){
+//     case "1":
+//     System.out.println("the sum is: " + (n1+n2));
+//     break;
+
+//     case "2":
+//     System.out.println("the sub is: " + (n1-n2));
+//     break;
+    
+//     case "3":
+//     System.out.println("the mul is: " + (n1*n2));
+//     break;
+
+//     case "4":
+//     System.out.println("the div is: " + (n1/n2));
+//     break;
+
+//     default:
+//     System.out.println("enter valid number");
+
+// }
 
 
 
