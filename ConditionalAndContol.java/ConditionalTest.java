@@ -2,7 +2,10 @@ import java.util.Scanner;
 
 public class ConditionalTest {
     public static void main(String[] args) {
-        
+        int a = 13;
+        String b = (a%2==0)?"even":"odd";
+        System.out.println(b);
+
 // PROBLEM 1
 // Java Program to Check Leap Year
 
@@ -17,7 +20,7 @@ public class ConditionalTest {
     // }else{
     //     System.out.println("the year is not leap year");
     // }
-
+   
 
 
 // PROBLEM 2
@@ -35,14 +38,8 @@ public class ConditionalTest {
 // }
 
 
-
 // PROBLEM 3
 // Java Program to Check Whether a Character is Alphabet or Not..............YET TO SOLVE
 
-String c = " ";
-Scanner sc = new Scanner (System.in);
-System.out.println("Enter some value ");
-
-}
-
+    }
 }
