@@ -15,11 +15,11 @@ public class LoopExam {
 // System.out.println("The total sum of natural number between 1-100 is : " + sum);
 
 
-int sum = 0;
-for(int i =1;i<=100;i++){
-    sum+= i;
-}
-System.out.println("the sum is: " +  sum);
+// int sum = 0;
+// for(int i =1;i<=100;i++){
+//     sum+= i;
+// }
+// System.out.println("the sum is: " +  sum);
 
 
 //................................ USING WHILE LOOP............................................
@@ -32,6 +32,8 @@ System.out.println("the sum is: " +  sum);
 // }
 // System.out.println("sum = " + sum);
 
+
+
 // ...............................USING DO-WHILE LOOP...........................................
 // int i = 1, sum = 0;
 // do{
@@ -40,7 +42,6 @@ System.out.println("the sum is: " +  sum);
 //     System.out.println("The sum is : " + sum);
 //     i++;
 // }while(i<=10);
-
 
 
 
