@@ -35,19 +35,38 @@ public class ForLoop {
 // ==============================================PROBLEM 2============================================================================
 // Take input from user and add only even number 
 
-//      int n1, n2, sumOfEven = 0;
-// 		Scanner sc = new Scanner(System.in);
-// 		System.out.println("Enter one number (n1) : ");
-// 		n1 = sc.nextInt();
-// 		System.out.println("Enter one number (n2) : ");
-// 		n2 = sc.nextInt();
-// 		for(int i = n1; i <= n2; i++) {
+int sum=0;
+Scanner sc = new Scanner(System.in);
+
+System.out.println("enter the number n1");
+int n1 = sc.nextInt();
+
+System.out.println("enter the number n2");
+int n2 = sc.nextInt();
+
+for(int i = n1; i<=n2;i++){
+    if(i%2==0){
+        sum= i+ sum;
+        
+    }
+    
+}
+System.out.println(sum);
+
+
+    //  int n1, n2, sumOfEven = 0;
+	// 	Scanner sc = new Scanner(System.in);
+	// 	System.out.println("Enter one number (n1) : ");
+	// 	n1 = sc.nextInt();
+	// 	System.out.println("Enter one number (n2) : ");
+	// 	n2 = sc.nextInt();
+	// 	for(int i = n1; i <= n2; i++) {
 			
-// 			if(i % 2==0) {
-// 				sumOfEven = i + sumOfEven;
+	// 		if(i % 2==0) {
+	// 			sumOfEven = i + sumOfEven;
 				
-// 				}		
-// 		}System.out.println("the sum of even numbers are : " + sumOfEven);
+	// 			}		
+	// 	}System.out.println("the sum of even numbers are : " + sumOfEven);
 
 
 
