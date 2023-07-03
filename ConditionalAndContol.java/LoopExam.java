@@ -15,6 +15,13 @@ public class LoopExam {
 // System.out.println("The total sum of natural number between 1-100 is : " + sum);
 
 
+int sum = 0;
+for(int i =1;i<=100;i++){
+    sum+= i;
+}
+System.out.println("the sum is: " +  sum);
+
+
 //................................ USING WHILE LOOP............................................
 
 // int sum = 0;
@@ -33,6 +40,8 @@ public class LoopExam {
 //     System.out.println("The sum is : " + sum);
 //     i++;
 // }while(i<=10);
+
+
 
 
 
