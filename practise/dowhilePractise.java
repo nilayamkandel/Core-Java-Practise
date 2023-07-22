@@ -1,6 +1,6 @@
 public class dowhilePractise{
     public static void main(String[] args) {
-        int num = 9;
+        int num = 10;
         int n = 1;
        
         do{
