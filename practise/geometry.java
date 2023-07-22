@@ -10,7 +10,7 @@ public class geometry {
     
     public static void main(String[] args) {
        geometry g = new geometry();
-       g.area(2, 3);
+       g.area(3, 3);
        g.area(4);
    }
 }
