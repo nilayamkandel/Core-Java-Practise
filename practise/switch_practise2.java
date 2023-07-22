@@ -6,7 +6,7 @@ public class switch_practise2 {
         Scanner sc = new Scanner(System.in);
         char Calculation = sc.next().charAt(0);
         
-        int a = 5;
+        int a = 8;
         int b = 6;
 
         switch(Calculation){
