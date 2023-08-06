@@ -13,7 +13,7 @@ public class MethodOverloading {
         MethodOverloading m =  new MethodOverloading();
         System.out.println("----------------");
         m.printSum(20, 30);
-        m.printSum("pras", "kandel");
+        m.printSum("junu", "kandel");
         
 
     }
