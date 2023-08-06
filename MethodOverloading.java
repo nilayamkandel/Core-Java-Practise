@@ -13,6 +13,7 @@ public class MethodOverloading {
         MethodOverloading m =  new MethodOverloading();
         m.printSum(20, 30);
         m.printSum("neel", "kandel");
+        System.out.println("----------------");
 
     }
 }
