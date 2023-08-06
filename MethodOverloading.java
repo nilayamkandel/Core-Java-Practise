@@ -11,9 +11,10 @@ public class MethodOverloading {
     }
     public static void main(String[] args) {
         MethodOverloading m =  new MethodOverloading();
+        System.out.println("----------------");
         m.printSum(20, 30);
         m.printSum("neel", "kandel");
-        System.out.println("----------------");
+        
 
     }
 }
