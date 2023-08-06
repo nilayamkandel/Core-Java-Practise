@@ -52,6 +52,7 @@ public class Details {
           System.out.println("\nString: #@$@!#$%!!%@");
           System.out.println("-------------------------");
           obj.countDupChars("#@$@!#$%!!%@");
+          System.out.println("-------------------");
         }
       }
 
