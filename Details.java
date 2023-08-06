@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 
 public class Details {
     
@@ -46,7 +47,7 @@ public class Details {
         
           System.out.println("\nString: Nilayam  kandel");
           System.out.println("-------------------------");
-          obj.countDupChars("nilayam kandel");
+          obj.countDupChars("neelayam kandel");
        
           System.out.println("\nString: #@$@!#$%!!%@");
           System.out.println("-------------------------");
