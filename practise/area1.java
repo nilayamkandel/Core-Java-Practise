@@ -7,7 +7,7 @@ public class area1 {
 	}
 	int getArea() {
 		int area =  l*  b;
-		System.out.println("the area of rectangle is");
+		System.out.println("the area of rectangle is:");
 		return area;
 	}
 	
