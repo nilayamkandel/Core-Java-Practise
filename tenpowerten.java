@@ -7,7 +7,7 @@ public class tenpowerten {
                long n,p,r=1;
             
                Scanner sc=new Scanner(System.in);
-               System.out.println("Enter number :");
+               System.out.println("Enter number please :");
                n=sc.nextLong();
     
                System.out.println("Enter power :");
