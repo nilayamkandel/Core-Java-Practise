@@ -18,7 +18,7 @@ public class Area {
 		Scanner sc = new Scanner(System.in);
 		
 		Area a1 = new Area();
-		System.out.println("Enter the size of length");
+		System.out.println("Enter the size of l");
 		a1.l = sc.nextInt();
 		
 		System.out.println("Enter the size of breadth");
