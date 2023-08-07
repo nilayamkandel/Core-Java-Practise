@@ -18,7 +18,7 @@ public class Complex {
 		Scanner sc = new Scanner(System.in);
 		
 		Complex c = new Complex();
-		System.out.println("enter the numbers");
+		System.out.println("enter the numbers: ");
 		c.x = sc.nextInt();
 		c.y = sc.nextInt();
 		c.sum();
