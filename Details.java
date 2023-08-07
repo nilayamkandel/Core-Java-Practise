@@ -42,7 +42,7 @@ public class Details {
         public static void main(String a[]){
           Details obj = new Details();
           System.out.println("String: Hello.com");
-          System.out.println("-------------------------");
+          System.out.println("@@@@@@@");
           obj.countDupChars("Hello.com");
         
           System.out.println("\nString: Nilayam  kandel");
