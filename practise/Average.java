@@ -8,6 +8,7 @@ public class Average {
 		System.out.println("the sum is : " + sum);
 		int avg = sum/3;
 		System.out.println("the average is : " +avg);
+		System.out.println("-------------");
 	}
 	
 	public static void main(String[] args) {
