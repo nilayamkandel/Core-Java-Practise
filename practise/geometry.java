@@ -7,6 +7,7 @@ public class geometry {
     void area(int s) {
         int b = s*s*s;
         System.out.println("the value of b is :" + b);
+        System.out.println("=============");
     }
     
     public static void main(String[] args) {
