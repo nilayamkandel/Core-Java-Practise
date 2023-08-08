@@ -4,7 +4,7 @@ public class Complex {
     int x, y;
 	void sum() {
 		int add = x + y;
-		System.out.println("the sum is : " + add);
+		System.out.println("the sum are : " + add);
 	}
 	void diff() {
 		int difference = x - y;
