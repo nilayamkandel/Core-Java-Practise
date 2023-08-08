@@ -8,7 +8,7 @@ public class Complex {
 	}
 	void diff() {
 		int difference = x - y;
-		System.out.println("the diff is : " + difference);
+		System.out.println("the diff are : " + difference);
 	}
 	void product() {
 		int pro = x * y;
