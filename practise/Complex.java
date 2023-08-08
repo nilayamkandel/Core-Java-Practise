@@ -12,7 +12,7 @@ public class Complex {
 	}
 	void product() {
 		int pro = x * y;
-		System.out.println("the sum is : " + pro);
+		System.out.println("the sum are: " + pro);
 	}
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
