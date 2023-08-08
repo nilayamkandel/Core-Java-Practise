@@ -21,7 +21,7 @@ public class Area {
 		System.out.println("Enter the size of leng");
 		a1.l = sc.nextInt();
 		
-		System.out.println("Enter the size of b");
+		System.out.println("Enter the size of breadth");
 		a1.b = sc.nextInt();
 		
 		a1.getArea();
