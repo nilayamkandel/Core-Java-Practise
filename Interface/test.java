@@ -8,6 +8,6 @@ public class test {
         System.out.println(".......................");
         System.out.println("....................");
         System.out.println("------------------");
-        System.out.println("");
+        System.out.println("=============");
     }
 }
