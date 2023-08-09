@@ -7,5 +7,6 @@ public class test {
         us.deleteUser();
         System.out.println(".......................");
         System.out.println("....................");
+        System.out.println("");
     }
 }
