@@ -5,5 +5,6 @@ public class test {
         UserService us = new UserImpl();
         us.addUser();
         us.deleteUser();
+        System.out.println("");
     }
 }
