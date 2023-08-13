@@ -7,6 +7,7 @@ public class main {
         i.userDetail();
         System.out.println("...........");
         System.out.println(".....");
+        System.out.println("");
 
     }
 }
