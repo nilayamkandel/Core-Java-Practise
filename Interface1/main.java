@@ -6,7 +6,7 @@ public class main {
         i.userInfo();
         i.userDetail();
         System.out.println("...........");
-        System.out.println("");
+        System.out.println(".....");
 
     }
 }
