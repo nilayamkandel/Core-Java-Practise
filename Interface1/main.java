@@ -5,7 +5,7 @@ public class main {
         infoService i = new dataimpl();
         i.userInfo();
         i.userDetail();
-        System.out.println("");
+        System.out.println("...........");
 
     }
 }
