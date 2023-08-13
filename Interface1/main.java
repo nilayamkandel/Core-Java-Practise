@@ -10,6 +10,7 @@ public class main {
         System.out.println("0000000000");
         System.out.println("99999999");
         System.out.println("8888888888");
+        System.out.println("----");
 
     }
 }
