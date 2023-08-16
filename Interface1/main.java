@@ -22,6 +22,6 @@ public class main {
         System.out.println("......");
         System.out.println("000");
         System.out.println("------");
-        System.out.println("");
+        System.out.println("9999999999");
     }
 }
