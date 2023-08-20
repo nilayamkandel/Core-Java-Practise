@@ -40,6 +40,7 @@ public class main {
         System.out.println("/-----");
         System.out.println(".........");
         System.out.println("...........");
+        System.out.println("");
 
     }
 }
