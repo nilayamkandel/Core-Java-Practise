@@ -56,6 +56,7 @@ public class main {
         System.out.println("s");
         System.out.println("......");
         System.out.println("..................");
+        System.out.println("");
     
     }
 }
