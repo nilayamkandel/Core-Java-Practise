@@ -55,7 +55,7 @@ public class main {
         System.out.println("99999999");
         System.out.println("s");
         System.out.println("......");
-        System.out.println("");
+        System.out.println("..................");
     
     }
 }
