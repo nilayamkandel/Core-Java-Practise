@@ -126,6 +126,7 @@ public class main {
         System.out.println(".......");
         System.out.println(".........");
         System.out.println("...........");
+
         System.out.println(".........");
         System.out.println(".........");
         System.out.println("......");
@@ -135,6 +136,7 @@ public class main {
         System.out.println("........");
         System.out.println("....");
         System.out.println(".........");
+        System.out.println("..........");
 
 
 
